@@ -4,9 +4,7 @@
   "description": "在线电子书",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
-
-  },
+    "test": "echo \"Error: no test specified\" && exit 0"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guoyanxia/book.git"
@@ -20,7 +18,6 @@
   "devDependencies": {
             "gitbook-cli": "^2.3.2"
                           
-                
-  }
+   }
 
 }
